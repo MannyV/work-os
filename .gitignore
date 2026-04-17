@@ -1,0 +1,29 @@
+# ── WorkOS Security Boundary ────────────────────────────────────────────────
+# NEVER commit these files. They contain company IP and API credentials.
+
+# Local context payload (company-specific work context)
+.workos-context.md
+
+# Environment / credentials
+.env
+.env.*
+!.env.example
+
+# ── Runtime & Dependencies ───────────────────────────────────────────────────
+node_modules/
+dist/
+build/
+.turbo/
+
+# ── Python (if switching runtimes) ──────────────────────────────────────────
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# ── OS / Editor artifacts ────────────────────────────────────────────────────
+.DS_Store
+*.swp
+.idea/
+.vscode/

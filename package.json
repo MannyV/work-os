@@ -1,0 +1,20 @@
+{
+  "name": "workos-engine",
+  "version": "0.1.0",
+  "description": "Notion-backed automation engine for context ingestion, task routing, and execution generation.",
+  "main": "dist/index.js",
+  "scripts": {
+    "dev": "ts-node src/index.ts",
+    "build": "tsc",
+    "lint": "eslint src --ext .ts"
+  },
+  "dependencies": {
+    "@notionhq/client": "^2.2.15",
+    "dotenv": "^16.4.5"
+  },
+  "devDependencies": {
+    "@types/node": "^20.12.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.5"
+  }
+}
