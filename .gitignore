@@ -4,6 +4,9 @@
 # Local context payload (company-specific work context)
 .workos-context.md
 
+# Audit log — append-only ledger of all context modifications
+.workos-changelog.md
+
 # Environment / credentials
 .env
 .env.*
