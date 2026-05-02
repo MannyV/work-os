@@ -178,6 +178,17 @@
   },
   "active": "e2de7cf919df6036",
   "lastOpenFiles": [
+    "inbox",
+    "archive/docs/Bain-jd.docx",
+    "archive/voice_notes",
+    "archive/transcripts",
+    "archive/docs",
+    "archive",
+    "projects/uncategorized_backlog.md",
+    "raw/voice_notes",
+    "raw/transcripts",
+    "raw/docs",
+    "raw/Bain-jd.docx",
     "wiki/meta_backlog.md",
     "wiki/proposed_updates.md",
     "wiki/org_chart.md",
@@ -189,12 +200,6 @@
     "projects/project_A/context.md",
     "projects/context.md",
     "context.md",
-    "projects/project_D",
-    "projects/project_C",
-    "projects/project_B",
-    "projects/project_A",
-    "projects",
-    "wiki",
-    "raw"
+    "projects/project_D"
   ]
 }
